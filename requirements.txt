@@ -1,0 +1,24 @@
+# Telegram Bot
+python-telegram-bot==20.7
+
+# AI/LLM Integration - Groq API (FREE & SUPER FAST!)
+groq==0.4.1
+
+# Environment Variables
+python-dotenv==1.0.0
+
+# HTTP Requests
+requests==2.31.0
+
+# Async Support
+aiohttp==3.9.1
+
+# For advanced math processing
+sympy==1.12
+
+# For video generation with MoviePy (FREE!)
+moviepy==1.0.3
+Pillow==10.1.0
+
+# Text-to-Speech for videos (FREE!)
+gtts==2.4.0
